@@ -29,6 +29,6 @@ It uses a free currency API to fetch real-time exchange rates and lets users con
 
 ---
 ## 🌐 Live Preview
-👉 [Click here to preview ]()
+👉 [Click here to preview ](https://currency-converter-khaki-three.vercel.app/)
 
 
