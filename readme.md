@@ -9,7 +9,7 @@ It uses a free currency API to fetch real-time exchange rates and lets users con
 - 🌍 Convert any amount from one currency to another  
 - 🇺🇸 Dynamic flags update based on selected currencies  
 - 🪄 Default selection: `USD → INR`  
-- 📡 Fetches live exchange rates from [currency-api](https://latest.currency-api.pages.dev)  
+- 📡 Fetches live exchange rates from [currency-api](https://latest.currency-api.pages.dev/v1/currencies)  
 - 🎨 Clean, modern UI with responsive design  
 
 ---
@@ -28,14 +28,6 @@ It uses a free currency API to fetch real-time exchange rates and lets users con
 4. The app fetches the latest exchange rate and shows the result  
 
 ---
-## 📂 Project Structure
-currency-converter/
-├── index.html # Main HTML file/
-├── style.css # Styling for the app/
-├── java.js # Main JavaScript logic/
-├── code.js # Country list (currency → country code mapping)/
-└── README.md # Documentation
-
 ## 🌐 Live Preview
 👉 [Click here to preview ]()
 
